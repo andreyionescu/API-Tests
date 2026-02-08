@@ -35,3 +35,5 @@ The following test cases are included:
     ```
 
     A new, HTML report will be automatically generated in the `Reports/` directory.
+
+[Cat Facts Tests](API_Cat_Facts.gif)
